@@ -1,0 +1,163 @@
+.body {
+    /*background:#191919;*/
+    background-image: url("portfolio-background.jpg");
+    /* background-image: url("wp2841706-cool-pc-wallpapers.jpg");*/
+    background-attachment: fixed;
+    /*background-repeat: no-repeat;
+    background-size:cover;*/
+    /* font-family: Helvetica, Arial, sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    /*color: rgb(236, 136, 4);*/
+}
+
+/*
+.banner{
+    height: 250px;
+    width: 1366px;
+    margin-top: -9px;
+    margin-left: -8px;
+}*/
+
+.h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 100px;
+    color: rgb(207, 200, 188);
+    background: rgb(5, 5, 5);
+    opacity: 95%;
+}
+
+.navigation-div {
+    margin-top: -50px;
+    margin-left: 25%;
+    height: 60px;
+    width: 700px;
+    /* border: 1px outset black;*/
+}
+
+.nevigation-div-button {
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 100px;
+    background: rgb(153, 22, 22);
+    border-radius: 25px;
+    border: 0px;
+    font-size: 20px;
+    opacity: 90%;
+    color: rgb(207, 200, 188);
+    transition: width 0.725s;
+}
+
+.nevigation-div-button:hover {
+    opacity: 100%;
+    width: 150px;
+}
+
+.input-search-your-designer-developer {
+    background: rgb(46, 45, 45);
+    color: rgb(207, 200, 188);
+    margin-top: 10px;
+    margin-left: 460px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 20px;
+    padding-left: 20px;
+    border: none;
+    outline: none;
+    opacity: 90%;
+    transition: width 1s;
+}
+
+.input-search-your-designer-developer:hover {
+    opacity: 100%;
+    width: 400px;
+}
+
+.button-go {
+    margin-top: 15px;
+    background: rgb(207, 200, 188);
+    color: rgb(46, 45, 45);
+    font-size: 25px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    opacity: 90%;
+    transition: width 1s;
+}
+
+.button-go:hover {
+    opacity: 100%;
+    width: 75px;
+}
+
+.div-main {
+    margin-left: 160px;
+    margin-top: 70px;
+}
+
+.div-Rabeel-portfolio {
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    /*margin-top: 100px;*/
+    margin-bottom: 30px;
+    background: rgb(143, 130, 130);
+    color: rgb(207, 200, 188);
+    font-size: 30px;
+    width: 300px;
+    border-radius: 15px;
+    transition: width 0.95s;
+    opacity: 95%;
+}
+
+.div-Rabeel-portfolio:hover {
+    background-color: rgb(121, 116, 116);
+    width: 276px;
+}
+
+.div-pics-Rabeel {
+    width: 250px;
+    margin-left: 25px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.div-Burhan-portfolio {
+    float: left;
+    /* margin-top: 100px;*/
+    margin-bottom: 30px;
+    background: rgb(143, 130, 130);
+    color: rgb(207, 200, 188);
+    font-size: 30px;
+    width: 300px;
+    border-radius: 15px;
+    transition: width 0.95s;
+    opacity: 95%;
+}
+
+.div-Burhan-portfolio:hover {
+    background-color: rgb(121, 116, 116);
+    width: 276px;
+}
+
+.div-pics-burhan {
+    width: 250px;
+    margin-left: 25px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.p-div-Burhan-Rabeel-portfolio {
+    padding-top: 7px;
+    margin-top: 5px;
+    margin-left: 6px;
+    margin-right: 6px;
+    background: rgb(78, 71, 82);
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+}

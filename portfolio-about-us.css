@@ -1,0 +1,162 @@
+.body {
+    /*background:#191919;*/
+    background-image: url("portfolio-background.jpg");
+    background-attachment: fixed;
+    /*background-repeat: no-repeat;
+    background-size:cover;*/
+    /* font-family: Helvetica, Arial, sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    /*color: rgb(236, 136, 4);*/
+}
+
+/*.banner{
+    height: 250px;
+    width: 1366px;
+    margin-top: -9px;
+    margin-left: -8px;
+}*/
+
+.h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 100px;
+    color: rgb(207, 200, 188);
+    background: rgb(5, 5, 5);
+    opacity: 95%;
+}
+
+.navigation-div {
+    margin-top: -50px;
+    margin-left: 25%;
+    height: 60px;
+    width: 700px;
+    /* border: 1px outset black;*/
+}
+
+.nevigation-div-button {
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 100px;
+    background: rgb(153, 22, 22);
+    border-radius: 25px;
+    border: 0px;
+    font-size: 20px;
+    opacity: 90%;
+    color: rgb(207, 200, 188);
+    transition: width 0.725s;
+}
+
+.nevigation-div-button:hover {
+    opacity: 100%;
+    width: 150px;
+}
+
+.div-about-us {
+    background: rgb(153, 22, 22);
+    opacity: 90%;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.h2-about-us {
+    margin-left: 100px;
+    color: rgb(207, 200, 188);
+    font-size: 40px;
+}
+
+.p1-about-us {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 30px;
+    color: rgb(207, 200, 188);
+}
+
+.div-our-vision {
+    background: rgb(153, 22, 22);
+    opacity: 90%;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.h2-our-vision {
+    margin-left: 100px;
+    color: rgb(207, 200, 188);
+    font-size: 40px;
+}
+
+.div-facility {
+    background: rgb(153, 22, 22);
+    opacity: 90%;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.p1-our-vision {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 30px;
+    color: rgb(207, 200, 188);
+}
+
+.div-facility-Rabeel {
+    margin-left: 25px;
+    margin-top: 20px;
+    background: rgb(143, 130, 130);
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    border-radius: 15px;
+    /* opacity: 40%;*/
+}
+
+.div-pics-Rabeel {
+    width: 250px;
+    margin-left: 25px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.p-div-facility-Rabeel-Burhan {
+    padding-top: 7px;
+    margin-top: 5px;
+    margin-left: 6px;
+    margin-right: 6px;
+    background: rgb(78, 71, 82);
+    height: 70px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.div-facility-Burhan {
+    margin-right: 25px;
+    margin-top: 80px;
+    background: rgb(143, 130, 130);
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    border-radius: 15px;
+    /* opacity: 40%;*/
+}
+
+.div-pics-burhan {
+    width: 250px;
+    margin-left: 25px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.p-facility-Rabeel-data {
+    color: wheat;
+    font-size: 30px;
+    margin-right: 25px;
+}
+
+.p-facility-Burhan-data {
+    color: wheat;
+    font-size: 30px;
+    margin-left: 25px;
+}
